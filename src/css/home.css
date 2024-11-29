@@ -1,0 +1,124 @@
+/* Body Background */
+body {
+    background: linear-gradient(to bottom, aliceblue, lightblue, cornflowerblue);
+    font-family: 'Roboto', sans-serif; /* Sporty and modern font */
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styles */
+.sporty-navbar {
+    background: linear-gradient(90deg, #1e1e1e, #000080); /* Gradient for sporty effect */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-title {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #FFD700; /* Gold color for a premium sporty touch */
+    text-transform: uppercase;
+}
+
+.navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-links li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s, transform 0.3s;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.navbar-links li a:hover {
+    color: #00FF00; /* Green hover effect */
+    transform: scale(1.1); /* Slight zoom for a sporty feel */
+}
+
+/* Footer Styles */
+.sporty-footer {
+    background: linear-gradient(90deg, #333, #000080); /* Gradient matching navbar */
+    color: #FFD700;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
+    letter-spacing: 1px;
+    box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Add to Cart Button Styles */
+.add-to-cart-btn {
+    background-color: #28a745; /* Sporty green */
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s;
+    font-size: 16px;
+}
+
+.add-to-cart-btn:hover {
+    background-color: #218838; /* Darker green */
+    transform: scale(1.1); /* Slight grow animation */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Card Customization */
+.custom-card {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-card:hover {
+    transform: translateY(-10px) scale(1.05); /* Lift and scale effect */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* Buttons inside Cards */
+.custom-card button {
+    background: linear-gradient(90deg, #FFD700, #FFA500); /* Gradient button */
+    border: none;
+    color: black;
+    font-weight: bold;
+    transition: transform 0.3s ease, background 0.3s ease;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.custom-card button:hover {
+    background: linear-gradient(90deg, #FFA500, #FFD700); /* Reverse gradient on hover */
+    transform: scale(1.1);
+}
+
+/* Add hover effects for sporty elements */
+.navbar-links li a:hover {
+    color: #00FF00; /* Bright green */
+    transform: scale(1.1);
+    text-shadow: 0px 4px 6px rgba(0, 255, 0, 0.4); /* Glow effect */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .navbar-title {
+        font-size: 24px;
+    }
+}

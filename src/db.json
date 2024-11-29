@@ -1,0 +1,271 @@
+{
+  "shopping": [
+    {
+      "id": "1",
+      "name": "Campus Women's Camp-LEX Running Shoes",
+      "price": 1546,
+      "description": "Women Gym Sports Shoe",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/615xvFqJAfL._SY695_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "BRUTON EVA Lite Sport Shoes Running Shoes Gym Shoes with Extra Jump for Men",
+      "price": 599,
+      "description": "Gym Running Shoes for men",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/71fYxd1lp0L._SY695_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "NIKE Revolution 7 Men's Casual Shoes",
+      "price": 3695,
+      "description": "Men's Casual Shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/71mY7w6giKL._SY695_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "ASIAN Men's Sports Running Shoes with Crystal Cushion Technology",
+      "price": 1315,
+      "description": "Men's sports shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/51rdBvOe1+L._SY695_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "AVANT Shoes",
+      "price": 1600,
+      "description": "Men's Gym Shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/611YNuILVoL._AC_UF480,480_SR480,480_.jpg"
+    },
+    {
+      "id": "fa90",
+      "name": "NIKE Mens Air Jordan Legacy 312 Low Running Shoes",
+      "price": "5000",
+      "description": "Gym Running Shoes",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/61DT0Tdgc0L._SY695_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "5fd9",
+      "name": "ASIAN Sports Shoes for Men | Soft Cushioned Insole || WIND-04 Running Shoes for Women",
+      "price": "635",
+      "description": "Women Multipurpose Shoes",
+      "category": "women",
+      "image": "https://m.media-amazon.com/images/I/61EB134OSlL._SY695_.jpg",
+      "type": "new"
+    },
+    {
+      "id": "3595",
+      "name": "ASIAN Men's Casual White Sneaker,Sports Running Stylish Shoes for Men's & Boy's Sneaker-03 & Urban-05",
+      "price": "945",
+      "description": "Sports Running Shoes for Men",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/61dyBaDUtZL._SY695_.jpg",
+      "type": "new"
+    }
+  ],
+  "kids": [
+    {
+      "id": "11",
+      "name": "Kids' Marvel Avengers Sneakers",
+      "price": 499,
+      "description": "Lightweight sneakers with Avengers-themed design for kids.",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/610SlZiS3TL._SY695_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Kids' Cartoon Slip-on Sandals",
+      "price": 299,
+      "description": "Comfortable slip-on sandals with fun cartoon prints.",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/71EDI+Nm7LL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "13",
+      "name": "PUMA Kids' Active Sports Shoes",
+      "price": 1499,
+      "description": "Durable sports shoes designed for active kids.",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/71FHUe0CejL._SY695_.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Kids' Colorful LED Shoes",
+      "price": 999,
+      "description": "Shoes with LED lights that light up when kids walk or run.",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/81XFYrq+jrL._SY695_.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Kids' Unicorn Sneakers",
+      "price": 929,
+      "description": "Breathable | Lightweight | Easy Slip-On | Printed Sneaker Shoes for kids.",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/51MfTvz11uL._SY695_.jpg"
+    },
+    {
+      "id": "16",
+      "name": "ASIAN Boy's Thunder-01 Kids Casual White Sneaker ",
+      "price": 464,
+      "description": "High-Neck with Lightweight Synthetic Upper Lace-Up Shoes for Kid's & Boy's",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/71Np3EdZPDL._SY695_.jpg"
+    },
+    {
+      "id": "17",
+      "name": "ASIAN Shoes Monitorwel Black Kids Shoes",
+      "price": 599,
+      "description": "School Shoes for Kids",
+      "category": "Kids",
+      "image": "https://m.media-amazon.com/images/I/71krt77BW2L._SY695_.jpg"
+    }
+  ],
+  "men": [
+    {
+      "id": "28",
+      "name": "NIKE Revolution 7 Men's Casual Shoes",
+      "price": 3695,
+      "description": "Men's Casual Shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/71mY7w6giKL._SY695_.jpg"
+    },
+    {
+      "id": "29",
+      "name": "ASIAN Men's Sports Running Shoes with Crystal Cushion Technology",
+      "price": 1315,
+      "description": "Men's sports shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/51rdBvOe1+L._SY695_.jpg"
+    },
+    {
+      "id": "39",
+      "name": "AVANT Shoes",
+      "price": 1600,
+      "description": "Men's Gym Shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/611YNuILVoL._AC_UF480,480_SR480,480_.jpg"
+    },
+    {
+      "id": "49",
+      "name": "ASICS Men's Gel-Game 9 Tennis Shoes",
+      "price": 4315,
+      "description": "Men's sports shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/717OGgh7sXL._SY695_.jpg"
+    },
+    {
+      "id": "59",
+      "name": "LEACOM Men's Ethnic Slip On Stylish Stitched Nagra, Jutis and Mojaris for Party",
+      "price": 499,
+      "description": "Men's party Jutis",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/31EJsM1M9OL._SY395_SX395_.jpg"
+    },
+    {
+      "id": "69",
+      "name": "FAUSTO Men's Formal Lace Up Oxford Shoes for Office",
+      "price": 1519,
+      "description": "Men's office shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/51GHGJO2zQL._SY695_.jpg"
+    },
+    {
+      "id": "79",
+      "name": "adidas Mens Flydoot M Running Shoe",
+      "price": 2300,
+      "description": "Men's sports shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/61ILsOc77PL._SY695_.jpg"
+    },
+    {
+      "id": "89",
+      "name": "ASICS Men's Gel-Game 9 Tennis Shoes",
+      "price": 4315,
+      "description": "Men's sports shoes",
+      "category": "Men",
+      "image": "https://m.media-amazon.com/images/I/717OGgh7sXL._SY695_.jpg"
+    }
+  ],
+  "women": [
+    {
+      "id": "111",
+      "name": "Campus Annie Casual Slip-On Shoes for Women ",
+      "price": 949,
+      "description": "Women's Walking Shoes",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/71gunNtOEEL._SY695_.jpg"
+    },
+    {
+      "id": "112",
+      "name": "SHAPECRUNCH Arch Support Shoes with Soft Cushioned Insoles for Women ",
+      "price": 2999,
+      "description": "Women's sports shoes",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/51-70Pm3f4L._SY695_.jpg"
+    },
+    {
+      "id": "113",
+      "name": "AVANT Shoes",
+      "price": 1600,
+      "description": "Women's Gym Shoes",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/611YNuILVoL._AC_UF480,480_SR480,480_.jpg"
+    },
+    {
+      "id": "114",
+      "name": "Campus Women's Camp Eloy Running Shoes",
+      "price": 1546,
+      "description": "Women's Gym Shoes",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/615xvFqJAfL._SY695_.jpg"
+    },
+    {
+      "id": "115",
+      "name": "Bata Women's KAFI Sandal",
+      "price": 699,
+      "description": "Women's Sandals",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/61TYoIP6z0L._SY695_.jpg"
+    },
+    {
+      "id": "116",
+      "name": "MOSAC Women's and Girl's Stylish High Heels Sandals Casual Block Cone Heels",
+      "price": 749,
+      "description": "Women's Party Wear High Heels",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/51lRDcv6i-L._SY695_.jpg"
+    },
+    
+    {
+      "id": "117",
+      "name": "AVANT Shoes",
+      "price": 635,
+      "description": "Women's Multipurpose Shoes",
+      "category": "Women",
+      "image": "https://m.media-amazon.com/images/I/61EB134OSlL._SY695_.jpg"
+    }
+  ],
+  "admin": {
+    "username": "aditya",
+    "password": "aditya18"
+  },
+  "customers": [
+    {
+      "id": "d10e",
+      "name": "Arya Meena",
+      "city": "Bhopal",
+      "address": "38,Forest Colony",
+      "pincode": "432001",
+      "mobile": "9856870521",
+      "amt": "3048",
+      "paymentMethod": "internet",
+      "productsOrdered": "Kids' Marvel Avengers Sneakers for Kids (x2), AVANT Shoes for Men (x1), Campus Women's Camp Eloy Running Shoes for Women (x1)"
+    }
+  ]
+}
