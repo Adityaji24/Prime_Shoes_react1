@@ -45,7 +45,7 @@
   
   /* Admin Header */
   #adminHeader {
-    background-color: #007bff;
+    background:linear-gradient(135deg,red,black);
     color: white;
     padding: 20px;
     text-align: center;
@@ -65,7 +65,7 @@
   
   /* Admin Menu */
   #adminMenu {
-    background-color: #343a40;
+    background:linear-gradient(red,black);
     color: white;
     width: 220px;
     padding-top: 20px;
@@ -81,22 +81,23 @@
   
   .menuLink {
     display: block;
-    color: #b8c6d3;
+    color:white;
     padding: 12px;
     text-decoration: none;
     font-size: 16px;
     border-left: 4px solid transparent;
     transition: 0.3s;
+    margin-left: 30px;
   }
   
   .menuLink:hover {
-    background-color: #007bff;
+    background-color: black;
     color: white;
     border-left: 4px solid #007bff;
   }
   
   .menuLink.active {
-    background-color: #0056b3;
+    background-color:black;
     color: white;
     border-left: 4px solid #0056b3;
   }

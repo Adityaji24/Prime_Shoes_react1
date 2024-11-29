@@ -1,4 +1,4 @@
-import "../admin/AdminDashboard.css";
+import "../admin/AdminDasboard.css";
 import { Link, Outlet } from "react-router-dom";
 
 const AdminDashboard = () => {
