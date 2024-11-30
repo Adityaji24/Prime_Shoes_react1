@@ -241,7 +241,6 @@
       "category": "Women",
       "image": "https://m.media-amazon.com/images/I/51lRDcv6i-L._SY695_.jpg"
     },
-    
     {
       "id": "117",
       "name": "AVANT Shoes",
@@ -265,6 +264,17 @@
       "mobile": "9856870521",
       "amt": "3048",
       "paymentMethod": "internet",
+      "productsOrdered": "Kids' Marvel Avengers Sneakers for Kids (x2), AVANT Shoes for Men (x1), Campus Women's Camp Eloy Running Shoes for Women (x1)"
+    },
+    {
+      "id": "1805",
+      "name": "Vidya Malan",
+      "city": "Raipur",
+      "address": "89,Kulwant Nagar",
+      "pincode": "452001",
+      "mobile": "9874562211",
+      "amt": "4383",
+      "paymentMethod": "upi",
       "productsOrdered": "Kids' Marvel Avengers Sneakers for Kids (x2), AVANT Shoes for Men (x1), Campus Women's Camp Eloy Running Shoes for Women (x1)"
     }
   ]
